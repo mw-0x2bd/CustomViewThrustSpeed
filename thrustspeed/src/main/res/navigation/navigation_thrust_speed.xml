@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/navigation_thrust_speed"
+            app:startDestination="@id/thrustSpeedFragment">
+
+    <fragment android:id="@+id/thrustSpeedFragment" android:name="com.mw.rfniias.thrustspeed.ui.ThrustSpeedFragment"
+              android:label="fragment_thrust_speed" tools:layout="@layout/fragment_thrust_speed"/>
+</navigation>

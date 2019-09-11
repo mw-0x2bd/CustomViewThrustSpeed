@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThrustSpeed</string>
+    <string name="test_current_speed">7.5</string>
+    <string name="test_recommended_speed">5.0</string>
+    <string name="title_current_speed">Текущая скорость</string>
+    <string name="title_recommended_speed">Рекомендованная скорость</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TrafficLight">
+        <attr name="orientation" format="enum">
+            <enum name="vertical" value="0"/>
+            <enum name="horizontal" value="90"/>
+        </attr>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="Point">
+        <attr name="height_point" format="dimension"/>
+        <attr name="width_point" format="dimension"/>
+    </declare-styleable>
+</resources>
